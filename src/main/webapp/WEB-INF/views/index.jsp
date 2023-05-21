@@ -3,8 +3,6 @@
 <html>
 <body>
     <h2>아니 왤케 눈이 잘 안보이냐</h2>
-    <h2>Good morning</h2>
-    <h1>${msg}</h1>
     <h1>Hi, there (updated by dowon)</h1>
     <h2>Today is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /></h2>
     <h3>Version: 3.1</h3>
